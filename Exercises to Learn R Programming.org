@@ -1,8 +1,11 @@
 * Exercise 0. You should consult the following tutorials for a quick intro and basic help:
 
 "Hands on Programming with R"  by Garret Grolemund 
+
 [[https://learnxinyminutes.com/r/][Learn X in Y Minutes]]
+
 [[https://www.stat.cmu.edu/~larry/all-of-statistics/=R/Rintro.pdf][Larry Waserman R tutorial]]
+
 [[https://github.com/karoliskoncevicius/r_notes/blob/main/README.md][Another optional but handy R tutorial]]
 
 * Exercise 1. The graduated income tax is a concept where people of different incomes are taxed differently.
