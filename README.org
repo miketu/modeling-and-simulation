@@ -36,5 +36,5 @@
 
 ** Annotated Bibliography
 
-- Mathematical Modeling with Excel by Albiright - An excellent textbook of problems and concepts in mathematical modeling based on Microsoft Excel. The structure of the book is concise, interesting, and has great problem sets. 
+- Mathematical Modeling with Excel by Albright - An excellent textbook of problems and concepts in mathematical modeling based on Microsoft Excel. The structure of the book is concise, interesting, and has great problem sets. 
 - 
