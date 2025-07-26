@@ -8,9 +8,11 @@
 
 [[https://github.com/karoliskoncevicius/r_notes/blob/main/README.md][Another optional but handy R tutorial]]
 
-* Exercise 1. The graduated income tax is a concept where people of different incomes are taxed differently.
-
+* Exercise 1. R Logic and Functions
 ** Part one
+
+The graduated income tax is a concept where people of different incomes are taxed differently.
+
 Program a calculator for different income tax rates using R:
 
 Income	Amount Taxed
