@@ -1,11 +1,11 @@
-Exercise 0. You should consult the following tutorials for a quick intro and basic help:
+* Exercise 0. You should consult the following tutorials for a quick intro and basic help:
 
 "Hands on Programming with R"  by Garret Grolemund 
 [[https://learnxinyminutes.com/r/][Learn X in Y Minutes]]
 [[https://www.stat.cmu.edu/~larry/all-of-statistics/=R/Rintro.pdf][Larry Waserman R tutorial]]
 [[https://github.com/karoliskoncevicius/r_notes/blob/main/README.md][Another optional but handy R tutorial]]
 
-Exercise 1. The graduated income tax is a concept where people of different incomes are taxed differently.
+* Exercise 1. The graduated income tax is a concept where people of different incomes are taxed differently.
 
 Program a calculator for different income tax rates using R:
 Income	Amount Taxed
@@ -18,11 +18,11 @@ Income	Amount Taxed
 
 For example, if I was to make 80k, I would be taxed at the rate of 10% for the 20-50k amount plus the 15% for the 50-70k amount plus 20% of the amount over 70,000 . 
 
-Exercise 2. Now building on problem 2, turn this into a function.
+* Exercise 2. Now building on problem 2, turn this into a function.
 
-Exercise 3. Now generalize problem 2 to do this calculator for a whole list of values… so for example if I had a list of c(100k, 550k, 50k, 10k), write code that could output a corresponding list where the tax calculation was applied to the whole list.
+* Exercise 3. Now generalize problem 2 to do this calculator for a whole list of values… so for example if I had a list of c(100k, 550k, 50k, 10k), write code that could output a corresponding list where the tax calculation was applied to the whole list.
 
-Exercise 4. Create a dataframe structure to encapsulate the following data.  
+* Exercise 4. Create a dataframe structure to encapsulate the following data.  
 
 | Name    | Gender | Job          |
 |---------|--------|--------------|
@@ -32,7 +32,7 @@ Exercise 4. Create a dataframe structure to encapsulate the following data.
 | David   | M      | Data Analyst |
 | Elisa   | F      | Teacher      |
 
-Exercise 5.
+* Exercise 5. How can I combine this dataframe with the dataframe from #4? So I can have the numbers corresponding to the job added to the dataframe with people’s names on it? 
 
 | Job           | Salary |
 |---------------|--------|
@@ -45,7 +45,6 @@ Exercise 5.
 | Scientist     |  89000 |
 
 
-How can I combine this dataframe with the dataframe from #5? So I can have the numbers corresponding to the job added to the dataframe with people’s names on it? 
 
-Exercise 6.  Apply the function from Problem #3 onto the table and create a column that calculates “Taxes Paid”.
-Exercise 7. Turn your job table into an excel file using R, or make it a simple database to query. Research the merits of different databases.
+* Exercise 6.  Apply the function from Problem #3 onto the table and create a column that calculates “Taxes Paid”.
+* Exercise 7. Turn your job table into an excel file using R, or make it a simple database to query. Research the merits of different databases.
