@@ -15,7 +15,7 @@
 
 *** Why is Simulation Neccessary?
 - Some problems can't currently be solved with mathematical reasoning only, consequently, we "brute-force" problems and automate multiple small calculations
-  - Example.  [[https://evgenii.com/blog/three-body-problem-simul][3 Body Problem]]
+  - Example.  [[https://evgenii.com/blog/three-body-problem-simulator/][3 Body Problem]]
   - Example. Navier-Stokes and Computational Fluid Dynamics
   - Example. Molecular dynamics
   - Example. Finite element analysis
