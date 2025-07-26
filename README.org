@@ -22,7 +22,7 @@
 
 
 
-- A computer is good at storing information and performing basic calculations. Computers start from "digital logic" circuits and then build up to  complex systems. Handling layers of language abstraction and cleverly designing systems is a huge part of "Computer Science" and "Software Engineering"
+- A computer is good at storing information and performing basic calculations. Modern computers start from "digital logic" circuits and then build up to  complex systems ([[https://www.nand2tetris.org/][link]]). Handling layers of language abstraction and cleverly designing systems is a huge part of "Computer Science" and "Software Engineering"
   
 - Fun Examples of Computer
   - Abacus
