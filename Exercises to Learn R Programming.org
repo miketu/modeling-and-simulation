@@ -37,7 +37,7 @@ Now building on part 1, turn this into a function.
 ** Part three 
 Now generalize part 2 to do this calculator for a whole list of values… so for example if I had a list of c(100k, 550k, 50k, 10k), write code that could output a corresponding list where the tax calculation was applied to the whole list.
 
-* Exercise 2. 
+* Exercise 2. Datatables
 ** Part one
 Create a dataframe structure to encapsulate the following data.  
 | Name    | Gender | Job          |
