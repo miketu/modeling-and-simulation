@@ -12,12 +12,19 @@
 
 ** Part one
 Program a calculator for different income tax rates using R:
+
 Income	Amount Taxed
+
 0-20k	0%
+
 20k-50k	10% of amount over 20,000
+
 50k-70k	15% of amount over 50,000
+
 70k-90k	20% of amount over 70,000
+
 90k-110k	25% of amount over 90,000
+
 110k+	30% of amount over 110,000
 
 For example, if I was to make 80k, I would be taxed at the rate of 10% for the 20-50k amount plus the 15% for the 50-70k amount plus 20% of the amount over 70,000 . 
