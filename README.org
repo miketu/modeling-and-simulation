@@ -3,6 +3,31 @@
 - Analysis is the practice of evaluating system properties based on measurements (relates to "inverse problem", "statistics", "inference")
 - "Mathematics is the study of pure pattern" - Rudy Rucker (Mind Tools)
 - "Engineering is the purposeful use of science" - Stephen Senturia
+*** Criteria of Mathematics include
+  - [[https://worrydream.com/LadderOfAbstraction/][Abstraction/Simplification]]
+  - Arguments from Scale/Proportionality (see Albright - Mathematical Modeling)
+  - Dimensional Analysis
+  - Beauty
+  - Prediction ability
+
+
+*** Why is Simulation Neccessary?
+- Some problems can't currently be solved with mathematical reasoning only, consequently, we "brute-force" problems and automate multiple small calculations
+  - Example.  [[https://evgenii.com/blog/three-body-problem-simul][3 Body Problem]]
+  - Example. Navier-Stokes and Computational Fluid Dynamics
+  - Example. Molecular dynamics
+  - Example. Finite element analysis
+
+
+
+- A computer is good at storing information and performing basic calculations. Computers start from "digital logic" circuits and then build up to  complex systems. Handling layers of language abstraction and cleverly designing systems is a huge part of "Computer Science" and "Software Engineering"
+  
+- Fun Examples of Computer
+  - Abacus
+  - Water Adder
+  - Minecraft computers
+  - Analog Computers and Op-Amps for doing Calculus
+  - [[https://www.youtube.com/watch?v=fKhFXqObWwY][Economic Simulator of British Economy]]
 
 ** Annotated Bibliography
 
