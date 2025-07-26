@@ -1,6 +1,10 @@
-** Introductory Definitions
-- Modeling and simulation is the practice of simplifying, formulating, and evaluating real world systems with mathematical reasoning and computer simulation. 
+** What is Engineering Mathematical Modeling and Analysis?
+- Modeling is the practice of simplifying, formulating, and evaluating real world systems with mathematical reasoning and computer simulation. 
 - Analysis is the practice of evaluating system properties based on measurements (relates to "inverse problem", "statistics", "inference")
-  - "Mathematics is the study of pure pattern" - Rudy Rucker (Mind Tools)
-  - "Engineering is the purposeful use of science" - Stephen Senturia
+- "Mathematics is the study of pure pattern" - Rudy Rucker (Mind Tools)
+- "Engineering is the purposeful use of science" - Stephen Senturia
 
+** Annotated Bibliography
+
+- Mathematical Modeling with Excel by Albiright - An excellent textbook of problems and concepts in mathematical modeling based on Microsoft Excel. The structure of the book is concise, interesting, and has great problem sets. 
+- 
