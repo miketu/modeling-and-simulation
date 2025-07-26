@@ -1,4 +1,5 @@
 ** What is Engineering Modeling and Analysis?
+*** Definitions
 - Modeling is the practice of simplifying, formulating, and evaluating real world systems with mathematical reasoning and computer simulation. 
 - Analysis is the practice of evaluating system properties based on measurements (relates to "inverse problem", "statistics", "inference")
 - "Mathematics is the study of pure pattern" - Rudy Rucker (Mind Tools)
@@ -29,6 +30,9 @@
   - Minecraft computers
   - Analog Computers and Op-Amps for doing Calculus
   - [[https://www.youtube.com/watch?v=fKhFXqObWwY][Economic Simulator of British Economy]]
+
+** Modeling Examples
+- [[https://github.com/miketu/2d-bouncing-ball-in-R][Bouncing Ball Simulation (R)]] - Finite difference method for modeling bouncing balls.
 
 ** Annotated Bibliography
 
