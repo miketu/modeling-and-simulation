@@ -70,6 +70,7 @@ Other sources: dynamics of physical systems by cannon, arthur johsnon biological
 
 
 F = M (dv/dt) =  M (d2x/dt)
+
 V = L (di/dt) = L (d2q/dt)
 
 ** Modeling Examples
