@@ -35,7 +35,7 @@
 - [[https://github.com/miketu/2d-bouncing-ball-in-R][Bouncing Ball Simulation (R)]] - Finite difference method for modeling bouncing balls.
 
 ** Analysis Examples
-- [[https://github.com/miketu/statistics-demonstrations][Statistics and Data science basics (R)] - Simple scripts illustrating R and concepts of statistics/probability.
+- [[https://github.com/miketu/statistics-demonstrations][Statistics and Data science basics (R)]] - Simple scripts illustrating R and concepts of statistics/probability.
 
 ** Recommended Reading
 *** Surveys in Modeling and Analysis
