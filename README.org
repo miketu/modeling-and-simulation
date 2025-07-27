@@ -40,6 +40,37 @@ Examples
   - [[https://www.youtube.com/shorts/iWVGiFOuhQA][Derivimeter]]
   - Integrator device
 
+** Analogies between Fields
+
+A number of books I've read have presented analogies between many mechanical, electrical, fluidic, and thermal forces. I've yet to see a comprehensive and easy to read treatment, so I've written down some notes for now:
+
+*** Quotes from Books
+
+| Translational | Rotational   | Electrical      |
+|---------------+--------------+-----------------|
+| Force         | Torque       | Voltage         |
+| Mass          | Inertia      | Inductance      |
+| Damper        | Damper       | Resistance      |
+| Spring        | Spring       | Elastance (1/C) |
+| Displacement  | Displacement | Charge          |
+| Velocity      | Velocity     | Current         |
+Source: Page 59 of Computer Simulations for Integrated Stem College education by Hafez and Tavernetti
+
+Other sources: dynamics of physical systems by cannon, arthur johsnon biological process engineering
+
+*** My Summary
+| Verbal Description                                          | Translational    | Rotational             | Electrical      | Fluidic        | Thermal |
+|-------------------------------------------------------------+------------------+------------------------+-----------------+----------------+---------|
+| Fundamental measurement                                     | Displacement (x) | Displacement (r*theta) | Charge (q)      | fluidic volume |         |
+| Change of fundamental measurement                           | velocity         | angular velocity       | current         |                |         |
+| "Force" that causes change to change, or "through variable" | Force            | Torque                 | Voltage         | Pressure       |         |
+| Thing that "resists change"                                 | damper           | damper                 | resistance      |                |         |
+| Thing that "stores fundamental unit"                        | spring           | spring                 | elastance (1/C) |                |         |
+| The more of this the slower change occurs                   | mass             | inertia                | inductance      |                |         |
+
+
+F = M (dv/dt) =  M (d2x/dt)
+V = L (di/dt) = L (d2q/dt)
 
 ** Modeling Examples
 - [[https://github.com/miketu/2d-bouncing-ball-in-R][Bouncing Ball Simulation (R)]] - Finite difference method for modeling bouncing balls.
