@@ -30,6 +30,16 @@
   - Minecraft computers
   - Analog Computers and Op-Amps for doing Calculus
   - [[https://www.youtube.com/watch?v=fKhFXqObWwY][Economic Simulator of British Economy]]
+*** The bridge between mathematics and reality
+
+There are a number of tools that can be used to illustrate mathematics in a "physical" way. I think this is a ripe field of exploration "manipulables" that can be used to help us get a connection between "book mathematics" and the physical reality we live in. 
+
+Examples
+  - Abacus
+  - Slide Rule
+  - [[https://www.youtube.com/shorts/iWVGiFOuhQA][Derivimeter]]
+  - Integrator device
+
 
 ** Modeling Examples
 - [[https://github.com/miketu/2d-bouncing-ball-in-R][Bouncing Ball Simulation (R)]] - Finite difference method for modeling bouncing balls.
