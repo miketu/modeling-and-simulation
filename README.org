@@ -66,3 +66,8 @@ Examples
 - Algebra the Easy Way, Trigonometry the Easy Way, Calculus the Easy Way by Downing - A storybook approach to learning foundational math.
 - Calculus Made Easy by Thompson - A classic book that helps you get an intuition on calculus.
 
+*** Interesting Reading in Science and Life
+- Physical Chemistry by Paul Monk - A readable question and answer format that goes into chemical principles of daily life.
+- The Mechanical Universe and Beyond the Mechanical Universe - This is a video series and also a textbook series that shows physics as a historical and human endeavor to understand the nature of reality.
+- Thinking Physics by Lewis Carroll Epstein - A fun "thought experiment" book on basic physics.
+- Grow your soil! by Miessler - Random, but interesting book on gardening and soil science.
