@@ -1,0 +1,53 @@
+  _Thought Exercises_
+- How do we model the traffic on the 405? What factors do we consider? [[https://traffic-simulation.de/ring.html][(Link)]]
+- How many eggs can we fit in a shoebox? (Problem from Design Analysis by Thompson)
+
+
+ 
+_Exercises in Mathematical Modeling and Simulation Simulation_
+
+
+- Fizzbuzz
+- Calculating taxes
+- Music catalog 
+
+- Downing Problems (Algebra the Easy Way)
+  - Graphing shapes
+  - Polynomial solving
+  - Binomial mathematics
+  - Calculating series math
+  - Matrix mathematics
+- Downing Problems (Calculus the Easy Way)
+  - Coefficients of a polynomial and then derivative
+  - Newton's Method for root-finding
+  - Plotting Derivatives
+  - Integral from polynomial
+  - Finding the value of pi
+  - Computer program to calculate length of curve
+  - Motion
+  - TAylor series to calculate sine
+  - Derivatives program
+
+
+- Markov and hidden-markov modeling (Kondrashav)
+  
+- Newton's Law of Cooling (basic differential equations) - Gould
+- Stock simulation exercise (finite difference and stochoasticity) - I came up with this idea myself
+- Falling object - Gould
+- 2D motion - Gould 
+- Two Body Problem (Physics) - Gould
+- Harmonic motion and more differential equation solving
+- Compartmental Modeling in Biology
+- Chaotic Behavior (Nonlinear differential equations)
+
+
+- Full house simulation calculator?
+- Monte Carlo for findingpi
+- Distributions (dice rolls) 
+- Distributions and different results.
+- Random walk
+- Linear regression (Least Sum of Squares and R^2) - Deficiencies proven by Anscomb's Quartet
+- Statistical tests: Applications of lienar models (reading: everything is a linear model)
+- Multilinear regression
+- Queing system simulations
+- Machine learning/AI is just math and statistics
