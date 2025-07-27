@@ -35,7 +35,7 @@
 - [[https://github.com/miketu/2d-bouncing-ball-in-R][Bouncing Ball Simulation (R)]] - Finite difference method for modeling bouncing balls.
 
 ** Annotated Bibliography
-*** Modeling and Simulation (Surveys)
+*** Surveys in Modeling and Analysis
 - Mathematical Modeling with Excel by Albright - An excellent textbook of problems and concepts in mathematical modeling based on Microsoft Excel. The structure of the book is concise, interesting, and has great problem sets. 
 - Engineering Modelling and Analysis by Walker et al.
 
@@ -46,3 +46,10 @@
 
 *** Data Science and Statistics
 - R for Data Science by Wickham - Helpful overview of the tidyverse system of performing data analysis.
+
+*** Practical Mathematics
+- Math for Scientists: Refreshing the Essentials by Maurits N, Ćurčić-Blake B. - A good refresher on mathematics techniques
+- Engineering Mathematics by Xin-She Yang - A comprehensive, readable summary of mathematical techniques.
+- Algebra the Easy Way, Trigonometry the Easy Way, Calculus the Easy Way by Downing - A storybook approach to learning foundational math.
+- Calculus Made Easy by Thompson - A classic book that helps you get an intuition on calculus.
+
