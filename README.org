@@ -34,7 +34,7 @@
 ** Modeling Examples
 - [[https://github.com/miketu/2d-bouncing-ball-in-R][Bouncing Ball Simulation (R)]] - Finite difference method for modeling bouncing balls.
 
-** Annotated Bibliography
+** Recommended Reading
 *** Surveys in Modeling and Analysis
 - Mathematical Modeling with Excel by Albright - An excellent textbook of problems and concepts in mathematical modeling based on Microsoft Excel. The structure of the book is concise, interesting, and has great problem sets. 
 - Engineering Modelling and Analysis by Walker et al.
