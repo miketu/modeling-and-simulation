@@ -80,23 +80,19 @@ V = L (di/dt) = L (d2q/dt)
 - [[https://github.com/miketu/statistics-demonstrations][Statistics and Data science basics (R)]] - Simple scripts illustrating R and concepts of statistics/probability.
 
 ** Recommended Reading
-*** Surveys in Modeling and Analysis
+*** Mathematics and Data Science
 - Mathematical Modeling with Excel by Albright - An excellent textbook of problems and concepts in mathematical modeling based on Microsoft Excel. The structure of the book is concise, interesting, and has great problem sets. 
-- Engineering Modelling and Analysis by Walker et al.
+- Engineering Modelling and Analysis by Walker et al. - Another good selection of topics in an introductory format. 
+- Math for Scientists: Refreshing the Essentials by Maurits N, Ćurčić-Blake B. - A good refresher on mathematics techniques
+- Engineering Mathematics by Xin-She Yang - A comprehensive, readable summary of mathematical techniques.
+- Algebra the Easy Way, Trigonometry the Easy Way, Calculus the Easy Way by Downing - A series of storybook approach to learning foundational math.
+- Calculus Made Easy by Thompson - A classic book that helps you get an intuition on calculus.
+- R for Data Science by Wickham - Helpful overview of the tidyverse system of performing data analysis.
 
-
-*** Modeling and Simulation (Physics)
+*** Modeling and Simulation (Physics Focused)
 - Modeling and Simulation of Everyday Things by Roth 
 - An introduction to Computer Simulation Methods by Gould
 
-*** Data Science and Statistics
-- R for Data Science by Wickham - Helpful overview of the tidyverse system of performing data analysis.
-
-*** Practical Mathematics
-- Math for Scientists: Refreshing the Essentials by Maurits N, Ćurčić-Blake B. - A good refresher on mathematics techniques
-- Engineering Mathematics by Xin-She Yang - A comprehensive, readable summary of mathematical techniques.
-- Algebra the Easy Way, Trigonometry the Easy Way, Calculus the Easy Way by Downing - A storybook approach to learning foundational math.
-- Calculus Made Easy by Thompson - A classic book that helps you get an intuition on calculus.
 
 *** Interesting Reading in Science and Life
 - Physical Chemistry by Paul Monk - A readable question and answer format that goes into chemical principles of daily life.
