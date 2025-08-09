@@ -6,12 +6,7 @@
 - "Mathematics is the study of pure pattern" - Rudy Rucker (Mind Tools)
 - "Engineering is the purposeful use of science" - Stephen Senturia
 
-*** Criteria of Mathematics include
-  - [[https://worrydream.com/LadderOfAbstraction/][Abstraction/Simplification]]
-  - Arguments from Scale/Proportionality (see Albright - Mathematical Modeling)
-  - Dimensional Analysis
-  - Beauty
-  - Prediction ability
+
 
 
 *** Why is Simulation Neccessary?
