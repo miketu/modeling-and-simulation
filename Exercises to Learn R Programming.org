@@ -1,4 +1,4 @@
-* Exercise 0. You should consult the following tutorials for a quick intro and basic help:
+* Exercise 0. Read 
 
 "Hands on Programming with R"  by Garret Grolemund 
 
@@ -8,7 +8,7 @@
 
 [[https://github.com/karoliskoncevicius/r_notes/blob/main/README.md][Another optional but handy R tutorial]]
 
-* Exercise 1. R Logic and Functions
+* Exercise 1. Practice Basic Skills (Conditional statements, Loops, Data Structures, Functions)
 ** Part one
 
 The graduated income tax is a concept where people of different incomes are taxed differently.
@@ -37,7 +37,7 @@ Now building on part 1, turn this into a function.
 ** Part three 
 Now generalize part 2 to do this calculator for a whole list of values… so for example if I had a list of c(100k, 550k, 50k, 10k), write code that could output a corresponding list where the tax calculation was applied to the whole list.
 
-* Exercise 2. Datatables
+* Exercise 2. Practice using R Dataframes and Tidyverse Functions
 ** Part one
 Create a dataframe structure to encapsulate the following data.  
 | Name    | Gender | Job          |
@@ -66,5 +66,5 @@ How can I combine this dataframe with the dataframe from part 1? So I can have t
 
 ** Part three
 Apply the function from Exercise 1 onto the table and create a column that calculates “Taxes Paid”.
-** Part four
+** Part four (bonus: integrate with databases/API/websites)
 Turn your job table into an excel file using R, or make it a simple database to query. Research the merits of different databases.
