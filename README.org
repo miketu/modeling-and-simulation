@@ -2,6 +2,7 @@
 *** Definitions
 - Modeling is the practice of simplifying, formulating, and evaluating real world systems with mathematical reasoning and computer simulation. 
 - Analysis is the practice of evaluating system properties based on measurements (relates to "inverse problem", "statistics", "inference")
+- Criteria of mathematics include [[https://worrydream.com/LadderOfAbstraction/][Abstraction/Simplification]], Arguments from scale/proportionality (see Albright - Mathematical Modeling in Excel), dimensional analysis coherency, internal logical coherency, coherency with existing mathematical and physical theorems, beauty, prediction ability
 - "Mathematics is the study of pure pattern" - Rudy Rucker (Mind Tools)
 - "Engineering is the purposeful use of science" - Stephen Senturia
 
