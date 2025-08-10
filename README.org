@@ -1,4 +1,4 @@
-** What is Engineering Modeling and Analysis?
+** What is Modeling and Simulation?
 *** Definitions
 - Modeling is the practice of simplifying, formulating, and evaluating real world systems with mathematical reasoning and computer simulation. 
 - Analysis is the practice of evaluating system properties based on measurements (relates to "inverse problem", "statistics", "inference")
@@ -91,7 +91,7 @@ V = L (di/dt) = L (d2q/dt)
 - [[https://github.com/miketu/statistics-demonstrations][Statistics and Data science basics (R)]] - Simple scripts illustrating R and concepts of statistics/probability.
 
 ** Recommended Reading
-*** Mathematics and Data Science
+*** Mathematical and Programming Preliminiaries
 - Mathematical Modeling with Excel by Albright - An excellent textbook of problems and concepts in mathematical modeling based on Microsoft Excel. The structure of the book is concise, interesting, and has great problem sets. 
 - Engineering Modelling and Analysis by Walker et al. - Another good selection of topics in an introductory format. 
 - Math for Scientists: Refreshing the Essentials by Maurits N, Ćurčić-Blake B. - A good refresher on mathematics techniques
@@ -100,12 +100,12 @@ V = L (di/dt) = L (d2q/dt)
 - Calculus Made Easy by Thompson - A classic book that helps you get an intuition on calculus.
 - R for Data Science by Wickham - Helpful overview of the tidyverse system of performing data analysis.
 
-*** Modeling and Simulation (Physics Focused)
+*** Modeling and Simulation with Programming 
 - Modeling and Simulation of Everyday Things by Roth 
 - An introduction to Computer Simulation Methods by Gould
 
 
-*** Interesting Reading in Science and Life
+*** Interesting Reading in Science
 - Physical Chemistry by Paul Monk - A readable question and answer format that goes into chemical principles of daily life.
 - The Mechanical Universe and Beyond the Mechanical Universe - This is a video series and also a textbook series that shows physics as a historical and human endeavor to understand the nature of reality.
 - Thinking Physics by Lewis Carroll Epstein - A fun "thought experiment" book on basic physics.
