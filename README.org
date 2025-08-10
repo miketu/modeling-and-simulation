@@ -109,6 +109,3 @@ V = L (di/dt) = L (d2q/dt)
 - Grow your soil! by Miessler - Random, but interesting book on gardening and soil science.
 
       
-
-[2025-07-06 Sun] 
-
