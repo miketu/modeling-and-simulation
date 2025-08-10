@@ -1,3 +1,4 @@
+
 ** What is Modeling and Simulation?
 *** Definitions
 - Modeling is the practice of simplifying, formulating, and evaluating real world systems with mathematical reasoning and computer simulation. 
@@ -94,7 +95,7 @@ V = L (di/dt) = L (d2q/dt)
 *** Mathematical and Programming Preliminiaries
 - Mathematical Modeling with Excel by Albright - An excellent textbook of problems and concepts in mathematical modeling based on Microsoft Excel. The structure of the book is concise, interesting, and has great problem sets. 
 - Engineering Modelling and Analysis by Walker et al. - Another good selection of topics in an introductory format. 
-- Math for Scientists: Refreshing the Essentials by Maurits N, Ćurčić-Blake B. - A good refresher on mathematics techniques
+- Math for Scientists: Refreshing the Essentials by Maurits N, Ćurčić-Blake B. - A good refresher on mathematics techniques, older free books include "Mathematical Preparation for Physical Chemistry" by Daniels and "Higher Mathematics" by Mellor
 - Engineering Mathematics by Xin-She Yang - A comprehensive, readable summary of mathematical techniques.
 - Algebra the Easy Way, Trigonometry the Easy Way, Calculus the Easy Way by Downing - A series of storybook approach to learning foundational math.
 - Calculus Made Easy by Thompson - A classic book that helps you get an intuition on calculus.
